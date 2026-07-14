@@ -1,5 +1,8 @@
 # Asha-Setu AI
 
+## 📱 Download APK
+[⬇️ Download Latest APK](https://github.com/Sridevidd7/Asha-setu/releases/tag/v1.0.0)
+
 ## Overview
 Asha-Setu AI is an AI-powered healthcare assistant for ASHA workers. It supports voice-based patient entry, offline data collection, vaccination tracking, smart referrals, and health analytics to improve rural healthcare delivery.
 
